@@ -9,6 +9,7 @@ At Veridu we rely heavily on Open Source projects and we do our best to give bac
 ## Laravel Framework
 
 - [#14115 PostgresProcessor:processInsertGetId | array cast fails to get Id when PDO fetch mode is set to PDO::FETCH_CLASS](https://github.com/laravel/framework/pull/14115)
+- [#14716 Fixes undefined index "aggregate" when you try to use paginator with fetchMode set to Entity](https://github.com/laravel/framework/pull/14716)
 
 ## Phinx
 
