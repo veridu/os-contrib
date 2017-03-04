@@ -26,6 +26,10 @@ At Veridu we rely heavily on Open Source projects and we do our best to give bac
 - [#62 Minor fixes to Amazon and Paypal services](https://github.com/Lusitanian/PHPoAuthLib/pull/62)
 - [#61 New services (Amazon, Paypal and Dropbox) and OAuth version constant](https://github.com/Lusitanian/PHPoAuthLib/pull/61)
 
+## PHPRepository
+
+- [#15 Added notNull and null filters](https://github.com/PHPRepository/repository/pull/15)
+
 ## SublimeLinter-php
 
 - [#27 Added support for reading cmd from settings](https://github.com/SublimeLinter/SublimeLinter-php/pull/27)
