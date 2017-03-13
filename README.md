@@ -33,6 +33,7 @@ At Veridu we rely heavily on Open Source projects and we do our best to give bac
 ## PHPRepository/SQL-Repository
 
 - [#22 Fixes a bug when addAll is called with new entities only](https://github.com/PHPRepository/sql-repository/pull/22)
+- [#23 Avoid calling lastInsertId on entity updates](https://github.com/PHPRepository/sql-repository/pull/23)
 
 ## SublimeLinter-php
 
