@@ -6,6 +6,10 @@ At Veridu we rely heavily on Open Source projects and we do our best to give bac
 
 - [#17 File and Directory Adapters @clean returns when fails to find a key within a tag](https://github.com/frqnck/apix-cache/pull/17)
 
+## Botman
+
+- [#438 Added Redis Authentication to RedisCache](https://github.com/botman/botman/pull/438)
+
 ## Laravel Framework
 
 - [#14115 PostgresProcessor:processInsertGetId | array cast fails to get Id when PDO fetch mode is set to PDO::FETCH_CLASS](https://github.com/laravel/framework/pull/14115)
