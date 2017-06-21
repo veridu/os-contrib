@@ -9,6 +9,7 @@ At Veridu we rely heavily on Open Source projects and we do our best to give bac
 ## Botman
 
 - [#438 Added Redis Authentication to RedisCache](https://github.com/botman/botman/pull/438)
+- [#439 Added Authentication to RedisStorage](https://github.com/botman/botman/pull/439)
 
 ## Laravel Framework
 
